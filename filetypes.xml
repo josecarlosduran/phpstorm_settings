@@ -7,6 +7,7 @@
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping ext="de" type="YAML" />
     </extensionMap>
   </component>
 </application>
