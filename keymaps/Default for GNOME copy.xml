@@ -1,5 +1,11 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
