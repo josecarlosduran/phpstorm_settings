@@ -1,4 +1,9 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="Diagram.DeselectAll" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
