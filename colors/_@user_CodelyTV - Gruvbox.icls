@@ -4,7 +4,7 @@
     <property name="created">2019-12-03T08:26:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-03T08:27:18</property>
+    <property name="modified">2019-12-04T12:14:09</property>
     <property name="originalScheme">CodelyTV - Gruvbox</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
