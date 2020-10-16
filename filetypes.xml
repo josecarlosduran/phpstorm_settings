@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="composer.lock" type="JSON" />
+      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="DoctrineCustomType" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit.xml.dist" type="XML" />
       <mapping ext="de" type="YAML" />
     </extensionMap>
   </component>
