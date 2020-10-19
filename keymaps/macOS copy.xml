@@ -7,4 +7,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl meta alt g" />
+  </action>
 </keymap>
