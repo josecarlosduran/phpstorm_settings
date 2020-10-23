@@ -4,7 +4,7 @@
     <property name="created">2020-10-16T20:04:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-16T20:09:56</property>
+    <property name="modified">2020-10-23T12:48:38</property>
     <property name="originalScheme">CTV - Gruvbox Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -668,7 +668,6 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="729b8f" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -756,8 +755,8 @@
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ebdbb2" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="FOREGROUND" value="f1b705" />
+        <option name="BACKGROUND" value="2d2d2d" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -1086,8 +1085,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ebdbb2" />
-        <option name="BACKGROUND" value="282828" />
+        <option name="FOREGROUND" value="282828" />
+        <option name="BACKGROUND" value="2d2d2d" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
