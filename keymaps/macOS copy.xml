@@ -13,4 +13,12 @@
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="ctrl meta alt g" />
   </action>
+  <action id="GotoRelated" />
+  <action id="Jdbc.OpenEditor.Grid.DDL" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
 </keymap>
