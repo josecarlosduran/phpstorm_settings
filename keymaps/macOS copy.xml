@@ -1,24 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
-  <action id="ActivateFindToolWindow" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta 1" />
-  </action>
-  <action id="FileChooser.GotoModule" />
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
-  </action>
-  <action id="Git.Menu">
-    <keyboard-shortcut first-keystroke="ctrl meta alt g" />
-  </action>
-  <action id="GotoRelated" />
-  <action id="Jdbc.OpenEditor.Grid.DDL" />
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl meta down" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
 </keymap>
