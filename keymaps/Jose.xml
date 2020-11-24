@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
