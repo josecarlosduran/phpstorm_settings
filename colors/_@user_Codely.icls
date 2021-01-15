@@ -1,14 +1,14 @@
 <scheme name="_@user_Codely" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-11-06T09:51:52</property>
+    <property name="created">2020-11-15T16:09:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-06T09:54:45</property>
+    <property name="modified">2021-01-15T11:17:22</property>
     <property name="originalScheme">Codely</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
