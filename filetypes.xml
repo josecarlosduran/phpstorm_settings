@@ -8,7 +8,6 @@
       <mapping pattern="DoctrineCustomType" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="de" type="YAML" />
     </extensionMap>
   </component>
