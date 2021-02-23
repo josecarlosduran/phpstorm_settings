@@ -10,6 +10,7 @@
   <component name="EditorSettings">
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledLanguages">
