@@ -17,4 +17,11 @@
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="ctrl meta alt g" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
 </keymap>
