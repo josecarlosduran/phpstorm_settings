@@ -7,6 +7,7 @@
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="remove-orphan-local-branches" type="PLAIN_TEXT" />
       <mapping pattern="DoctrineCustomType" type="PLAIN_TEXT" />
+      <mapping pattern="autotags" type="PLAIN_TEXT" />
       <mapping pattern="cancelDisputes" type="PLAIN_TEXT" />
       <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
