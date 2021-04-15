@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="returnWithShipment" type="PLAIN_TEXT" />
       <mapping pattern="returnStaled" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="remove-orphan-local-branches" type="PLAIN_TEXT" />
